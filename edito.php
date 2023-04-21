@@ -54,7 +54,7 @@ if($result = $conn->query($query)){
 
                 
                 </div>
-                <input class type="submit" value ="Updae" class="btn btn-success">
+                <input class type="submit" value ="Update" class="btn btn-success">
                 </div>
                 
                
